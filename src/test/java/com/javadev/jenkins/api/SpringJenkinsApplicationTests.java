@@ -18,7 +18,7 @@ class SpringJenkinsApplicationTests {
 		
 		logger.info("Test Case Executing Second Log Statement....");
 		
-		logger.info("Email Notification Test4....");
+		logger.info("Email Notification Test5....");
 		
 		assertEquals(true, true);
 	}
